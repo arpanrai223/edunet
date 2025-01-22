@@ -1,0 +1,2 @@
+# edunet
+AI internship project
